@@ -1,22 +1,28 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhoues&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<br/>
+
+**About me**
+- 💼 Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/)
+- ❤️ currently learning Nginx, Redis and Elasticsearch
+- 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021)
+- 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:2868470542@qq.com)
+<!-- - 🌱 -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 🔭 I’m currently working on  -->
 
 
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=Zhoues&show_icons=true&include_all_commits=true)](https://github.com/Zhoues/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoues&layout=compact)](https://github.com/Zhoues/github-readme-stats) -->
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhoues&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoues&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 <!-- 
 **Zhoues/Zhoues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
