@@ -8,7 +8,7 @@
 **About me**
 
 - 💼 Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/)
-- ❤️ currently learning Nginx, Redis and Elasticsearch
+- ❤️ currently learning  Nginx , Redis , Docker , K8S and Elasticsearch
 - 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021)
 - 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:2868470542@qq.com)
 <!-- - 🌱 -->
