@@ -1,14 +1,16 @@
 ### Hi there 👋
 
+<!--
 <br/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
+-->
 
 **About me**
 
 - 💼 Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/)
-- ❤️ currently learning  Nginx , Redis , Docker , K8S and Elasticsearch
+- ❤️ currently learning  Elastic Stack and Deep Learning
 - 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021)
 - 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:2868470542@qq.com)
 <!-- - 🌱 -->
