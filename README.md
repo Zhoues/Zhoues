@@ -12,7 +12,7 @@
 - 💼 Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/)
 - ❤️ currently learning Deep Learning(CV)
 - 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021)
-- 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:2868470542@qq.com)
+- 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:20373623@buaa.edu.cn)
 <!-- - 🌱 -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
