@@ -10,7 +10,7 @@
 **About me**
 
 - 💼 Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/)
-- ❤️ currently learning Deep Learning(Computer Vision && Generative AI)
+- ❤️ currently learning Deep Learning(Multimodel Large Language Model)
 - 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021)
 - 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:zhoueshen@gmail.com)
 <!-- - 🌱 -->
