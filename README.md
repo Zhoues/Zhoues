@@ -10,7 +10,7 @@
 **About me**
 
 - 💼 I’m Junior at [College of Software, Beihang University](https://soft.buaa.edu.cn/) and currently an research intern at [Shanghai AI Lab](https://www.shlab.org.cn/)
-- ❤️ currently learning Deep Learning(Multimodel Large Language Model)
+- ❤️ currently learning Multimodel Large Language Model and Embodied AI (now especially for agent in simulator)
 - 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021)
 - 💬 Ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) Or reach me by [email](mailto:zhoueshen@gmail.com)
 <!-- - 🌱 -->
