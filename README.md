@@ -9,9 +9,9 @@
 
 **About me**
 
-- 😄 I’m a senior at [College of Software, Beihang University](https://soft.buaa.edu.cn/) and currently a research intern at OpenGVLab in [Shanghai AI Lab](https://www.shlab.org.cn/).
+- 😄 I’m a senior at [College of Software, Beihang University](https://soft.buaa.edu.cn/) and currently a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/).
 - ❤️ currently learning the Multimodal Large Language Model and Embodied Agents in simulated worlds.
-- 💬 ask me about anything [here](https://github.com/Zhoues/Zhoues/issues) or reach me by [email](mailto:zhoueshen@gmail.com).
+- 💬 reach me by [email](mailto:zhouenshen@buaa.edu.cn) if you are curious about something.
 <!-- 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021) -->
 <!-- - 🌱 -->
 <!-- - 📫 How to reach me: ... -->
