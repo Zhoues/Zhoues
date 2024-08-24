@@ -10,7 +10,7 @@
 **About me**
 
 - 😄 I’m an undergraduate at [Beihang University](https://soft.buaa.edu.cn/) and currently a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/).
-- ❤️ currently learning the Multimodal Large Language Model and Embodied Agents in simulated worlds.
+- ❤️ currently learning the Multimodal Large Language Model Applications, e.g. Embodied Agents in simulated worlds like Minecraft and Robot Manipulation in the real world.
 - 💬 reach me by [email](mailto:zhouenshen@buaa.edu.cn) if you are curious about something.
 <!-- 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021) -->
 <!-- - 🌱 -->
