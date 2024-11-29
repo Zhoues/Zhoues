@@ -9,7 +9,7 @@
 
 **About me**
 
-- 😄 I’m a first-year MS student at [Beihang University](https://soft.buaa.edu.cn/) and currently intern at a start-up [Galbot](https://www.galbot.com/). Before that, I interned at [Shanghai AI Lab](https://www.shlab.org.cn/).
+- 😄 I’m a first-year MS student at [Beihang University](https://soft.buaa.edu.cn/) and currently a research intern at an EAI start-up [Galbot](https://www.galbot.com/). Before that, I interned at [Shanghai AI Lab](https://www.shlab.org.cn/).
 - ❤️ currently learning the Multimodal Large Language Model Applications, e.g. Embodied Agents in simulated worlds like Minecraft and Robot Manipulation in the real world.
 - 💬 reach me by [email](mailto:zhouenshen@buaa.edu.cn) if you are curious about something.
 <!-- 👯 collaborating on [BUAA-GoodBro2021](https://github.com/BUAA-GoodBro2021) -->
