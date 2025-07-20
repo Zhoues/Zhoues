@@ -16,8 +16,8 @@
 
 **About me**
 
-- 😄 I’m a first-year MS student at [Beihang University](https://soft.buaa.edu.cn/) and currently a research intern at an EAI start-up [Galbot](https://www.galbot.com/).
-  -   Before that, I interned at [Shanghai AI Lab](https://www.shlab.org.cn/).
+- 😄 I’m a first-year MS student at [Beihang University](https://soft.buaa.edu.cn/) and currently a research intern at [BAAI](https://www.baai.ac.cn/en/).
+  -   Before that, I interned at [Shanghai AI Lab](https://www.shlab.org.cn/) and an EAI start-up [Galbot](https://www.galbot.com/).
 - ❤️ currently learning the Multimodal Large Language Model Applications:
   -  Embodied Agents in simulated worlds like Minecraft.
   -  Robot Manipulation in the real world.
